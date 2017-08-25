@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Maven: aopalliance:aopalliance:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://C:/Program Files/NVIDIA GPU Computing Toolkit" />
+      <root url="file://C:/dev-soft/c_include/opencv3.2/build/bin" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar!/" />
+      <root url="jar://C:/dev-soft/c_include/opencv3.2/build/java/opencv-320.jar!/" />
+    </SOURCES>
+  </library>
+</component>
